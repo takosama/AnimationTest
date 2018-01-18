@@ -1,0 +1,7 @@
+﻿0 ship stagein 
+wait 8
+1 ship stagein
+wait 10
+attack 1 10 32
+wait 10
+attack 
